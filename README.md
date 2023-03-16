@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Xin1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xin1337)](https://github.com/anuraghazra/github-readme-stats)
+[![Xin1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xin1337&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
